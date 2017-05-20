@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ShooterTest.data.unityweb",
+"asmCodeUrl": "ShooterTest.asm.code.unityweb",
+"asmMemoryUrl": "ShooterTest.asm.memory.unityweb",
+"asmFrameworkUrl": "ShooterTest.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
